@@ -6,7 +6,7 @@
                                     │
                                     ▼
                          ┌─────────────────────┐
-                         │    PRÉPROCESSEUR    │
+                         │    PRÉPROCESSEUR    │ ← prépare le code
                          └─────────────────────┘
                                     │
                                     ▼
